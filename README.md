@@ -10,6 +10,8 @@ The extracted data are imported into TouchDesigner, where they drive a real-time
 
 ### How to use the code?
 
+In the corresponding directories there are already the csv files that drive the TouchDesigner project, but if a new generation of them is needed, follow the instructions below.
+
 #### Musical analysis data extraction
 Run the **data_extraction.py** script in the directory *musical data extraction*. To run correctly:
 - **kyrieII.mxl** has to be in the path *musical data extraction/data*
