@@ -19,8 +19,7 @@ The system combines:
 
 The final visualization represents the four vocal parts as color-coded melodic trajectories in a pitch-time space, with moving spheres, halos, and analytical highlights synchronized with the choir recording.
 
----
----
+
 
 ## Demo video
 
