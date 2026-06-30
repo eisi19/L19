@@ -20,6 +20,15 @@ The system combines:
 The final visualization represents the four vocal parts as color-coded melodic trajectories in a pitch-time space, with moving spheres, halos, and analytical highlights synchronized with the choir recording.
 
 ---
+---
+
+## Demo video
+
+[![Final visualization demo](assets/final_visualization.png.png)](https://youtu.be/uq13KxMXvtg)
+
+The demo shows the final synchronized audiovisual output of the project, where the choir recording drives the TouchDesigner visualization of Bach’s *Kyrie II*.
+
+---
 
 ## Repository structure
 
