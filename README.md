@@ -23,7 +23,7 @@ The final visualization represents the four vocal parts as color-coded melodic t
 
 ## Demo video
 
-[![Final visualization demo](assets/final_visualization.png.png)](https://youtu.be/uq13KxMXvtg)
+[![Final visualization demo](assets/final_visualization.png.png)](https://youtu.be/jIAINrTFMF8)
 
 The demo shows the final synchronized audiovisual output of the project, where the choir recording drives the TouchDesigner visualization of Bach’s *Kyrie II*.
 
